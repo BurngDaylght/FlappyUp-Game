@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: befd89f86b07c774893af4294b61b023, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  skinName: Default
+  skinImage: {fileID: 4329407632164072968, guid: 1d079236d982e9a49b142367e90d942d, type: 3}
+  skinPrice: 0
+  environmentBackground: {fileID: -4760720893975047759, guid: 3d67a4d99a22f9d46b8a2a6412e8f218, type: 3}
+  environmentPipes: {fileID: 7765292873387770120, guid: 0422a2dd3ea0f524bb628eebc2eecb2b, type: 3}
+  environmentGround: {fileID: -3966044189379602213, guid: eeda0a4f1c42d2b4a8728e5dbc184ff2, type: 3}

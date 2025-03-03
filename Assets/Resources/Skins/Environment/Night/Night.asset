@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: befd89f86b07c774893af4294b61b023, type: 3}
+  m_Name: Night
+  m_EditorClassIdentifier: 
+  skinName: Night
+  skinImage: {fileID: -4226392715816407447, guid: 04fad98a945641346bc2d4a1607856a8, type: 3}
+  skinPrice: 1000
+  environmentBackground: {fileID: -987484526527555892, guid: 6cbbca6f33d576141bbd3fef5d7ca2e6, type: 3}
+  environmentPipes: {fileID: -6186335936887281156, guid: 47743afb7d5da144c8fce4ce601c27a6, type: 3}
+  environmentGround: {fileID: -3966044189379602213, guid: eeda0a4f1c42d2b4a8728e5dbc184ff2, type: 3}
