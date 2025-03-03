@@ -17,11 +17,11 @@
 - **Additional Tools**: DOTween, event system, data saving and loading in JSON.
 
 ## Media
-<img src="https://github.com/user-attachments/assets/084b9afe-27ee-4a65-b4c1-e352af5200ec" width="170">
-<img src="https://github.com/user-attachments/assets/aca7356f-7c24-4770-a802-df263c4f120f" width="170">
-<img src="https://github.com/user-attachments/assets/429a802b-73f3-4519-9c39-b3f48359aa17" width="170">
-<img src="https://github.com/user-attachments/assets/20342b1a-1f8d-43ce-b704-e77cc43c0cd2" width="170">
-<img src="https://github.com/user-attachments/assets/d8a8e34e-a47b-4ff3-a2dc-32a528f4fc43" width="170">
+<img src="https://github.com/user-attachments/assets/084b9afe-27ee-4a65-b4c1-e352af5200ec" width="150">
+<img src="https://github.com/user-attachments/assets/aca7356f-7c24-4770-a802-df263c4f120f" width="150">
+<img src="https://github.com/user-attachments/assets/429a802b-73f3-4519-9c39-b3f48359aa17" width="150">
+<img src="https://github.com/user-attachments/assets/20342b1a-1f8d-43ce-b704-e77cc43c0cd2" width="150">
+<img src="https://github.com/user-attachments/assets/d8a8e34e-a47b-4ff3-a2dc-32a528f4fc43" width="150">
 
 ## Links
 - **Google Drive:** [Flappy Up Files](https://drive.google.com/drive/u/9/folders/1LfE9Tj7sk8V0X-mWjBq4JiMpDeCO8eRy)
