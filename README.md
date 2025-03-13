@@ -10,7 +10,7 @@
 - **Simple and intuitive controls**: To start the game, simply tap on the screen. With each tap, the bird jumps up and then gradually falls down.
 
 ## Technologies and Tools:
-- **Engine**: Unity;
+- **Engine**: Unity 6000.0.24f1 (LTS);
 - **Programming Language**: C#;
 - **Architecture**: Application of SOLID principles;
 - **Design Patterns Used**: Singleton, Observer, Strategy, Command;
